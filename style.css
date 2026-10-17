@@ -1,0 +1,44 @@
+img {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 90px auto 20px auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 25px;
+    margin: 0px 100px 40px 100px;
+}
+p {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 30px;
+}
+h1 {
+    font-size: 21px;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+h4 {
+    font-size: 13px;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+hr {
+    margin: 20px 0;
+}
+blockquote {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    line-height: 23px;
+}
